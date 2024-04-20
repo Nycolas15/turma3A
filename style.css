@@ -1,13 +1,14 @@
+/* No arquivo styles.css */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f8ff; /* Cor de fundo clara para simular a sensação de espaço aberto */
+    background-color: #f0f8ff; /* Azul claro para simular a sensação de espaço aberto */
     color: #333; /* Cor do texto */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #0073e6; /* Cor azul que remete ao uniforme de muitas equipes de vôlei */
+    background-color: #ffcc00; /* Amarelo vibrante, como a cor de uma bola de vôlei */
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -24,8 +25,8 @@ main {
 }
 
 h2 {
-    color: #0073e6; /* Mantendo a cor temática para os títulos das seções */
-    border-bottom: 2px solid #0073e6; /* Linha abaixo do título para destaque */
+    color: #ffcc00; /* Mantendo a cor temática para os títulos das seções */
+    border-bottom: 2px solid #ffcc00; /* Linha abaixo do título para destaque */
     padding-bottom: 5px;
 }
 
@@ -41,7 +42,7 @@ ul li {
 }
 
 footer {
-    background-color: #0073e6;
+    background-color: #ffcc00;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -53,4 +54,3 @@ footer {
 footer p {
     margin: 0;
 }
-
