@@ -1,1 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff; /* Cor de fundo clara para simular a sensação de espaço aberto */
+    color: #333; /* Cor do texto */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0073e6; /* Cor azul que remete ao uniforme de muitas equipes de vôlei */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    padding: 15px;
+    text-align: justify;
+}
+
+h2 {
+    color: #0073e6; /* Mantendo a cor temática para os títulos das seções */
+    border-bottom: 2px solid #0073e6; /* Linha abaixo do título para destaque */
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none; /* Removendo marcadores padrão da lista */
+    padding: 0;
+}
+
+ul li {
+    background: url('volleyball-icon.png') no-repeat left center; /* Ícone de vôlei antes de cada item da lista */
+    padding-left: 40px; /* Espaço para o ícone da bola de vôlei */
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
 
