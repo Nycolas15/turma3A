@@ -1,14 +1,13 @@
-/* No arquivo styles.css */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f8ff; /* Azul claro para simular a sensação de espaço aberto */
-    color: #333; /* Cor do texto */
+    background-color: #f0f8ff; 
+    color: #333; 
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #ffcc00; /* Amarelo vibrante, como a cor de uma bola de vôlei */
+    background-color: #0073e6; 
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -25,24 +24,24 @@ main {
 }
 
 h2 {
-    color: #ffcc00; /* Mantendo a cor temática para os títulos das seções */
-    border-bottom: 2px solid #ffcc00; /* Linha abaixo do título para destaque */
+    color: #0073e6; 
+    border-bottom: 2px solid #0073e6; 
     padding-bottom: 5px;
 }
 
 ul {
-    list-style-type: none; /* Removendo marcadores padrão da lista */
+    list-style-type: none; 
     padding: 0;
 }
 
 ul li {
-    background: url('volleyball-icon.png') no-repeat left center; /* Ícone de vôlei antes de cada item da lista */
-    padding-left: 40px; /* Espaço para o ícone da bola de vôlei */
+    background: url('volleyball-icon.png') no-repeat left center; 
+    padding-left: 40px; 
     margin-bottom: 10px;
 }
 
 footer {
-    background-color: #ffcc00;
+    background-color: #0073e6;
     color: white;
     text-align: center;
     padding: 10px 0;
